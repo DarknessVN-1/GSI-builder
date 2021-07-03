@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_LINK: your rom's direct link
+  ROM_LINK: https://repo.mirrorbot69.workers.dev/0:/Nusantara_LTS-10-on7xelte-29062021-UNOFFICIAL-2259.zip
   ROM_TYPE: Generic
   BUILD_AB: true
   BUILD_AONLY: false
