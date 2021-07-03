@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_LINK: https://repo.mirrorbot69.workers.dev/0:/Nusantara_LTS-10-on7xelte-29062021-UNOFFICIAL-2259.zip
+  ROM_LINK: https://repo.mirrorbot69.workers.dev/0:/Havoc-OS-v2.6-20190612-j7xelte-Official.zip
   ROM_TYPE: Generic
   BUILD_AB: true
   BUILD_AONLY: false
